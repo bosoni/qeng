@@ -1,0 +1,14 @@
+# Blender MTL File: 'rock.blend'
+# Material Count: 1
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.142401 0.142401 0.142401
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd stone_diffuse_02.png
+map_Kn stone_normal_02.png
